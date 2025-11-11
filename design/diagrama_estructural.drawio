@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 OPR/123.0.0.0" version="28.2.8">
+  <diagram name="Página-1" id="EWUzXFawMVc38KdrmvQ_">
+    <mxGraphModel dx="1228" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="111" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="361" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="301" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3wQX0x2buiD3FdlfO8tx-1" target="3wQX0x2buiD3FdlfO8tx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3wQX0x2buiD3FdlfO8tx-1" target="3wQX0x2buiD3FdlfO8tx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3wQX0x2buiD3FdlfO8tx-1" target="3wQX0x2buiD3FdlfO8tx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3wQX0x2buiD3FdlfO8tx-1" target="3wQX0x2buiD3FdlfO8tx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3wQX0x2buiD3FdlfO8tx-1" target="3wQX0x2buiD3FdlfO8tx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-1" value="Home page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-2" value="Buscar viajes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-3" value="Otros Rincones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-4" value="Mi cuenta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-8" value="- Filtros&lt;div&gt;-Resultados&lt;/div&gt;&lt;div&gt;-Recomendaciones&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-9" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: 22px; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; text-align: start; margin: 0px !important;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;color: rgb(10, 10, 10); font-size: 12px;&quot;&gt;-Listado de Ciudades&lt;br&gt;-Información Detallada por d&lt;/font&gt;&lt;font style=&quot;white-space-collapse: collapse; background-color: transparent; color: rgb(10, 10, 10);&quot; face=&quot;Helvetica&quot;&gt;estino -Consejos y Recomendaciones&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 0px; color: light-dark(rgb(10, 10, 10), rgb(229, 229, 229)); font-family: Helvetica; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22-%20Filtros%26lt%3Bdiv%26gt%3B-Resultados%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B-Recomendaciones%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22120%22%20y%3D%22180%22%20width%3D%22140%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="83" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-10" value="Reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-11" value="Configuración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-15" value="-Accesibilidad&lt;div&gt;-Idioma&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="310" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-16" value="-Selección de viaje&lt;div&gt;-Datos de viajero&lt;/div&gt;&lt;div&gt;-Método de pago&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3wQX0x2buiD3FdlfO8tx-17" value="-Inicio sesión/Registro&lt;div&gt;-Mis Viajes&lt;/div&gt;&lt;div&gt;-Mis Datos&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="339.5" y="380" width="149" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
